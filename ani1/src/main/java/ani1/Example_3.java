@@ -20,6 +20,7 @@ interface Mother{
 class Son  extends Father implements Mother{
     public void call(){
         System.out.println("aniruddha");
+        System.out.println("aniruddha");
     }
 
 }
